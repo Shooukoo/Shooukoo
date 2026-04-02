@@ -1,130 +1,142 @@
 <div align="center">
 
-<!-- Typing animation via readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=00E5A0&center=true&vCenter=true&width=600&lines=Santiago+Mora+Nuñez;Full-Stack+Developer;AI+%26+Computer+Vision+Engineer;Clean+Architecture+%7C+SOLID)](https://git.io/typing-svg)
+# Santiago Antonio Mora Nuñez
 
-<p>
-  <img src="https://img.shields.io/badge/Ubicación-Sahuayo%2C%20Michoacán%20MX-00E5A0?style=flat-square&labelColor=0d0d0f" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20collabs-00E5A0?style=flat-square&labelColor=0d0d0f&logo=circle&logoColor=00E5A0" />
-  <img src="https://img.shields.io/badge/Carrera-Ing.%20Sistemas%20Computacionales-5b6ef5?style=flat-square&labelColor=0d0d0f" />
-</p>
+### Ingeniero en Sistemas Computacionales · Full-Stack Developer · AI Engineer
 
-<p>
-  <a href="https://uningenieromas.vercel.app/portafolio">
-    <img src="https://img.shields.io/badge/🌐 Portafolio-uningenieromas.vercel.app-00E5A0?style=for-the-badge&labelColor=0d0d0f" />
-  </a>
-  <a href="https://www.linkedin.com/in/santiago-antonio-mora-nu%C3%B1ez-bb024a3b3">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0f" />
-  </a>
-  <a href="https://wa.me/523531373007">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0d0f" />
-  </a>
-</p>
+Transformo ideas complejas en soluciones digitales de alto rendimiento.  
+Mi enfoque combina arquitectura de software sólida con implementación de Inteligencia Artificial  
+para construir productos que escalan y generan impacto real.
 
----
+<br/>
 
-*Transformo ideas complejas en **soluciones digitales de alto rendimiento**.*  
-*Clean Architecture · Domain-Driven Design · Real-world AI.*
+[![Portfolio](https://img.shields.io/badge/Portfolio-uningenieromas.vercel.app-00E5A0?style=flat-square&labelColor=0d0d0f)](https://uningenieromas.vercel.app/portafolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago%20Mora-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d0f)](https://www.linkedin.com/in/santiago-antonio-mora-nu%C3%B1ez-bb024a3b3)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B52%20353%20137%203007-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0d0d0f)](https://wa.me/523531373007)
+[![GitHub](https://img.shields.io/badge/GitHub-Shooukoo-e8e8f0?style=flat-square&logo=github&logoColor=white&labelColor=0d0d0f)](https://github.com/Shooukoo)
+
+![Profile views](https://komarev.com/ghpvc/?username=Shooukoo&color=00E5A0&style=flat-square&label=Profile+views)
 
 </div>
 
 ---
 
-## ⚡ Stack Técnico
+## Sobre mí
+
+Soy desarrollador apasionado por la ingeniería de software y la optimización de procesos. Actualmente curso la carrera de **Ingeniería en Sistemas Computacionales** y me especializo en construir ecosistemas digitales completos: desde el diseño de la base de datos hasta la experiencia de usuario final.
+
+He liderado el desarrollo de plataformas de gestión empresarial y modelos de visión artificial, siempre bajo estándares de **Clean Architecture** y principios **SOLID**. Me interesa especialmente la intersección entre sistemas de alto rendimiento e Inteligencia Artificial aplicada a problemas reales.
+
+- **Ubicación:** Sahuayo, Michoacán, México
+- **Disponibilidad:** Abierto a colaboraciones y proyectos freelance
+- **Enfoque actual:** Arquitecturas escalables con NestJS y modelos de visión computacional con YOLOv8
+
+---
+
+## Stack Técnico
 
 <div align="center">
 
-### Frontend & UI
+**Frontend & UI**
+
 ![Next.js](https://img.shields.io/badge/Next.js_15+-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-### Backend & Arquitectura
+**Backend & Arquitectura**
+
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### Datos
+**Ecosistema de Datos**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-### AI & Computer Vision
+**IA & Computer Vision**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Custom_Model-00E5A0?style=flat-square&labelColor=0d0d0f)
 
-### DevOps & Infra
+**DevOps & Infraestructura**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git_Flow-F05032?style=flat-square&logo=git&logoColor=white)
+![Git Flow](https://img.shields.io/badge/Git_Flow-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔧 RepairLab Enterprise
+### RepairLab Enterprise
 **Sistema integral de gestión para talleres técnicos**
 
-- Backend con **NestJS** y 13+ módulos funcionales
-- Inventario, Órdenes de servicio, Auth modular
-- Notificaciones en tiempo real via **Socket.IO**
-- Exportación de tickets PDF con **códigos QR**
+Plataforma empresarial desarrollada con NestJS que centraliza la operación completa de talleres de reparación. Incluye 13+ módulos funcionales: gestión de inventario, órdenes de servicio, autenticación por roles y reportería avanzada.
 
-`NestJS` `Socket.IO` `PostgreSQL` `Prisma` `PDF`
+- Notificaciones en tiempo real via Socket.IO
+- Exportación de tickets en PDF con códigos QR
+- Arquitectura modular bajo principios SOLID
+
+`NestJS` `Socket.IO` `PostgreSQL` `Prisma` `Docker`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Sign Language AI
+### Sign Language AI
 **Reconocimiento de lenguaje de señas en tiempo real**
 
-- Modelo **YOLOv8** personalizado de alta precisión
-- Servidor de inferencia optimizado con **FastAPI**
-- Pipeline de visión computacional en tiempo real
-- Enfocado en accesibilidad tecnológica
+Modelo de visión computacional entrenado con YOLOv8 para detectar y clasificar gestos de lengua de señas con alta precisión. El sistema opera en tiempo real con latencia mínima, enfocado en mejorar la accesibilidad tecnológica.
 
-`YOLOv8` `FastAPI` `OpenCV` `Python` `CV`
+- Pipeline de inferencia optimizado con FastAPI
+- Preprocesamiento de imagen con OpenCV
+- Modelo personalizado entrenado con dataset propio
+
+`YOLOv8` `FastAPI` `OpenCV` `Python` `Computer Vision`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📱 MoraTech System
+### MoraTech System
 **Gestión de inventario y activaciones de telefonía**
 
-- App móvil híbrida con **Expo (React Native)**
-- Panel administrativo web completo
-- Base de datos relacional para control de campo
-- Arquitectura Full-Stack desacoplada
+Solución full-stack que combina una aplicación móvil híbrida con un panel administrativo web para el control de inventario y activaciones en campo. Diseñada para operar en entornos con conectividad limitada.
+
+- App móvil con Expo (React Native)
+- Panel web con base de datos relacional
+- Sincronización bidireccional de datos
 
 `Expo` `React Native` `Node.js` `PostgreSQL`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛒 [Yesmos Celulares](https://yesmos.com)
+### [Yesmos Celulares](https://yesmos.com)
 **E-commerce especializado con SEO avanzado**
 
-- Lighthouse score **> 95** en todas las métricas
-- Datos estructurados para máxima visibilidad en Google
-- Scraping automatizado de precios competitivos
-- Arquitectura optimizada para conversión
+Tienda en línea de telefonía con arquitectura orientada al rendimiento y posicionamiento orgánico. Lighthouse score consistente por encima de 95 y datos estructurados para maximizar la visibilidad en resultados de búsqueda.
 
-`Next.js` `TypeScript` `SEO` `PHP` `Scraping`
+- Scraping automatizado para actualización de precios
+- Schema markup y Core Web Vitals optimizados
+- Lighthouse score > 95 en todas las métricas
+
+`Next.js` `TypeScript` `PHP` `SEO` `Structured Data`
 
 </td>
 </tr>
@@ -132,59 +144,33 @@
 
 ---
 
-## 📊 GitHub Stats
+## Metodologías de Ingeniería
 
-<div align="center">
+```
+  Clean Architecture       Domain-Driven Design (DDD)    Test-Driven Development
+  Principios SOLID         Git Flow                       CI/CD
+  WebSockets · gRPC        REST · Event-Driven            Microservicios
+```
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Shooukoo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0f&title_color=00E5A0&icon_color=5b6ef5&text_color=e8e8f0&ring_color=00E5A0" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shooukoo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0f&title_color=00E5A0&text_color=e8e8f0&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shooukoo&theme=github-dark-blue&hide_border=true&background=0d0d0f&ring=00E5A0&fire=5b6ef5&currStreakLabel=00E5A0)](https://git.io/streak-stats)
-
-</div>
+No solo escribo código — diseño sistemas. Cada decisión arquitectónica parte de entender el dominio del negocio, anticipar el crecimiento y garantizar que el código sea mantenible a largo plazo.
 
 ---
 
-## 🛠 Metodologías de Ingeniería
+## Conectemos
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   Clean Architecture  ·  Domain-Driven Design (DDD)     │
-│   Test-Driven Dev (TDD)  ·  SOLID Principles            │
-│   WebSockets  ·  gRPC  ·  REST  ·  Event-Driven         │
-│   CI/CD  ·  Git Flow  ·  Microservicios                  │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+¿Tienes un reto técnico o un proyecto en mente? Estoy disponible para colaborar.
 
----
-
-## 📬 Conectemos
-
-¿Tienes un reto técnico o un proyecto en mente? Estoy listo para colaborar.
-
-<div align="center">
-
-| Canal | Enlace |
+| Canal | Contacto |
 |---|---|
-| 🌐 Portafolio | [uningenieromas.vercel.app](https://uningenieromas.vercel.app/portafolio) |
-| 💼 LinkedIn | [Santiago Antonio Mora Nuñez](https://www.linkedin.com/in/santiago-antonio-mora-nu%C3%B1ez-bb024a3b3) |
-| 💬 WhatsApp | [+52 353 137 3007](https://wa.me/523531373007) |
-| 🐱 GitHub | [@Shooukoo](https://github.com/Shooukoo) |
-
-</div>
+| Portafolio | [uningenieromas.vercel.app](https://uningenieromas.vercel.app/portafolio) |
+| LinkedIn | [Santiago Antonio Mora Nuñez](https://www.linkedin.com/in/santiago-antonio-mora-nu%C3%B1ez-bb024a3b3) |
+| WhatsApp | [+52 353 137 3007](https://wa.me/523531373007) |
+| GitHub | [@Shooukoo](https://github.com/Shooukoo) |
 
 ---
 
 <div align="center">
 
 *© 2026 .uningenieromás — Sahuayo, Michoacán, México*
-
-![Profile views](https://komarev.com/ghpvc/?username=Shooukoo&color=00E5A0&style=flat-square&label=Profile+views)
 
 </div>
