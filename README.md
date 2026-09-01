@@ -163,7 +163,6 @@ No solo escribo código — diseño sistemas. Cada decisión arquitectónica par
 |---|---|
 | Portafolio | [uningenieromas.vercel.app](https://uningenieromas.vercel.app/portafolio) |
 | LinkedIn | [Santiago Antonio Mora Nuñez](https://www.linkedin.com/in/santiago-antonio-mora-nu%C3%B1ez-bb024a3b3) |
-| WhatsApp | [+52 353 137 3007](https://wa.me/523531373007) |
 | GitHub | [@Shooukoo](https://github.com/Shooukoo) |
 
 ---
