@@ -12,7 +12,6 @@ para construir productos que escalan y generan impacto real.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-uningenieromas.vercel.app-00E5A0?style=flat-square&labelColor=0d0d0f)](https://uningenieromas.vercel.app/portafolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago%20Mora-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d0f)](https://www.linkedin.com/in/santiago-antonio-mora-nu%C3%B1ez-bb024a3b3)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B52%20353%20137%203007-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0d0d0f)](https://wa.me/523531373007)
 [![GitHub](https://img.shields.io/badge/GitHub-Shooukoo-e8e8f0?style=flat-square&logo=github&logoColor=white&labelColor=0d0d0f)](https://github.com/Shooukoo)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Shooukoo&color=00E5A0&style=flat-square&label=Profile+views)
